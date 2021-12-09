@@ -1,0 +1,9 @@
+user1 = User(username='Ron', email='a@demo.com')
+user2 = User(username='Ben', email='b@demo.com')
+user3 = User(username='Eli', email='c@demo.com')
+
+
+cocktail1 = CocktailDB(name='Old Fashioned', category='classic', instructions='purr')
+cocktail2 = CocktailDB(name='Negroni', category='classic', instructions='stirr')
+
+cocktail1.users.append(user1)

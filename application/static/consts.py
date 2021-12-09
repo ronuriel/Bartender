@@ -1,0 +1,15 @@
+
+base_url = "https://www.thecocktaildb.com/api/json/v1/1/"
+random_url = "random.php"
+by_name_url = "search.php?s="
+by_ingredient_url = "filter.php?i="
+by_id_url = "lookup.php?i="
+
+invalid_cocktail = "Cocktail doesn't exist"
+invalid_user = "User doesn't exist"
+invalid_cocktail = "Cocktail doesn't exist"
+cocktail_user_exist= "Cocktail exits in user's favorites"
+cocktail_user_doesnt_exist = "Cocktail doesn't exist in user's favorites"
+username_exits = "Username exits"
+email_exists = "Email exists"
+cocktail_exists = "Cocktail exists"
